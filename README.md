@@ -36,9 +36,9 @@
 ## Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kazim-akyol-649761316/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
-</p> <p align="left">
-  <a href="https://medium.com/@akyolkzm.2016493" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64oqvw8o76MyFaHEElhPqO-cZ-O3kONeRvPzGPIIQBd-iIfuXUguW0B3QHYzPwiFglxU&usqp=CAU" width="70" height="70"/></a>
+  <a href="https://www.linkedin.com/in/kazim-akyol-649761316/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+</p> <br> <p align="left">
+  <a href="https://medium.com/@akyolkzm.2016493" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64oqvw8o76MyFaHEElhPqO-cZ-O3kONeRvPzGPIIQBd-iIfuXUguW0B3QHYzPwiFglxU&usqp=CAU" width="40" height="40"/></a>
 </p>
 <!--
 **KazimAkyol/KazimAkyol** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
